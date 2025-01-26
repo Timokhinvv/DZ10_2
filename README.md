@@ -41,6 +41,11 @@
 - Установите и настройте HAProxy, воспользуйтесь материалами к лекции по [ссылке](2/)
 - Настройте балансировку Round-robin на 4 уровне.
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
+![VirtualBox_Ubu2204_26_01_2025_13_21_44](https://github.com/user-attachments/assets/20c6aaf8-948f-4a63-9fdd-8f56109c246b)
+![VirtualBox_Ubu2204_26_01_2025_13_36_06](https://github.com/user-attachments/assets/606fd517-146a-4ab9-a31a-64facbbcf9aa)
+![VirtualBox_Ubu2204_26_01_2025_14_08_38](https://github.com/user-attachments/assets/504e9e74-e76a-4373-94f8-5c647fe9363b)
+![VirtualBox_Ubu2204_26_01_2025_14_24_03](https://github.com/user-attachments/assets/7fc4a84c-29de-47d3-a6b1-3c0e50daeb3d)
+![VirtualBox_Ubu2204_26_01_2025_14_25_11](https://github.com/user-attachments/assets/bbdf2783-fc5d-4a95-a708-bdf00396ee28)
 
 
 ### Задание 2
@@ -49,6 +54,11 @@
 - HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
+https://github.com/Timokhinvv/DZ10_2/blob/main/haproxy.cfg
+![VirtualBox_Ubu2204_26_01_2025_14_46_24](https://github.com/user-attachments/assets/7e5ff4dd-761a-4c62-ae3c-d10b819c439c)
+![VirtualBox_Ubu2204_26_01_2025_16_55_41](https://github.com/user-attachments/assets/45165563-97c5-40e2-81ec-489a8d30d2ee)
+![VirtualBox_Ubu2204_26_01_2025_17_34_05](https://github.com/user-attachments/assets/616afd4f-709b-405e-856a-69d999922f67)
+![VirtualBox_Ubu2204_26_01_2025_18_25_17](https://github.com/user-attachments/assets/94be9fdd-df0d-4743-b6ef-44e23ad73131)
 
 
 ---
